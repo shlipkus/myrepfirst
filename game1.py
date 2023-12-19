@@ -49,4 +49,3 @@ while game:
     if game:
         hod('O')
 print(winer)
-#change there is
